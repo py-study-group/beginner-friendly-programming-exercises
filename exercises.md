@@ -36,3 +36,16 @@ Create a program that:
 * Prints the area
 * Example: width = 5, height = 2
 * Output: area = 10
+
+# ex.5
+You are interested in buying crytocurrencies. You want to check with your current amount of money how many coins you can buy
+in Bitcoin, Ethereum and Litecoin.
+
+Create a program that:
+* Read your amount of money
+* Read the read the price of Bitcoin, Ethereum and Litecoin
+* Prints the amount of Bitcoin, Ethereum and Litecoin you can buy
+* Example: money = 100, bitcoin_price = 50, Ethereum = 25, Litecoin = 10
+* Output: "With 100$ you can buy 2 Bitcoin, 4 Ethereum, 10 Litecoin
+
+Warning! Obviously the prices are fixed to exercise purpose.
