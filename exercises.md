@@ -49,3 +49,12 @@ Create a program that:
 * Output: "With 100$ you can buy 2 Bitcoin, 4 Ethereum, 10 Litecoin
 
 Warning! Obviously the prices are fixed to exercise purpose.
+
+# ex.6
+You are interested to buy a new laptop. You check the price and you see that the price is 300$ without 10% tax.
+
+Create a program that:
+* Read the price of the laptop
+* Read the tax percentage
+* Prints the total mount
+* Output: "The total price of the laptop is 330%
