@@ -56,5 +56,34 @@ You are interested to buy a new laptop. You check the price and you see that the
 Create a program that:
 * Read the price of the laptop
 * Read the tax percentage
-* Prints the total mount
-* Output: "The total price of the laptop is 330%
+* Prints the total amount
+* Output: "The total price of the laptop is 330$"
+
+# ex.7
+In a company the monthly salary of an employee is calculated by minimum wage 400$ per month, plus 20$ multiply by the employment years, plus 30$ for each employee kid.
+
+Create a program that:
+* Read the employment years
+* Read the number of each employee kids
+* Prints the total amount the employee must take
+* Output: "The total amount is 560$, 400$ minimum wage + 100$ for 5 years experience + 60$ for 2 kids"
+
+# ex.8
+The exercise is almost identical to previous exercise with a minor change. In a company the monthly salary of an employee is calculated by minimum wage 400$ per month, plus 20$ multiply by the employment years, plus 30$ for each employee kid, plus 100$ if the employee didn't miss 1 day of work.
+
+Create a program that:
+* Read the employment years
+* Read the number of each employee kids
+* Prints the total amount the employee must take
+* Output: "The total amount is 660$, 400$ minimum wage + 100$ for 5 years experience + 60$ for 2 kids + 100$ for not missing a day at work"
+
+# ex.9
+The exercise is almost identical to previous exercise with a minor change. It's end of semester and you got your marks from, Geometry, Algebra, Physics classes. If the average score is 7 and above print "Good job!", if the average score is between 6 and 4 print "You need to work harder!", if the average score is below 4 print "Failed, you really need to work harder!".
+
+Create a program that:
+* Reads the values of these 3 lessons
+* Calculate the average of your grades
+* Example: Geometry = 6, Algebra = 7, Physics = 8
+* Output: Your average score is 7, Good job!"
+
+Warning! Do not use the programming language magic. After you complete the exercise you are free to do so.
