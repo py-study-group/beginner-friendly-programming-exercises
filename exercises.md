@@ -102,6 +102,16 @@ Warning! Don't try to convert the number into string etc.
 Warning! For this problem it's ok after spending some time to look for the solution.
 
 # ex.11
+You start working and you are wondering how many things you can buy with the money you've earned. A PS4 cots 200$, a Samsung 900$, a TV 500$, a game skin 9.99$
+
+Create a program:
+* Notice that you can't but half TV or 1/4 of PS4.
+* Read how many hours you've worked
+* Read your hourly income
+* Print how many items you can buy
+* Output: "I can buy 4 PS4, 1 Samsung, 3 TV, 80 game skin"
+
+# ex.12
 You've consumed X amount of Mbps on Wikipedia and Y amount of Mbps on memes. The cost of visiting Wikipedia is 0,10$ per Mb 
 and the cost for watching memes is 0,05$ per Mb. If total consumption  is more than 100$ print "Too much consumption".
 If watching meme consumption is greater than reading wikipedia consumption print "WOW MANY MEMES", "SUCH LOL"(in new line).
