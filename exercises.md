@@ -142,3 +142,35 @@ Create a program that:
 * Reads your location
 * Print the amount of money you have to pay
 * Ouput: "You have to pay 23$, 20$ for the product and 3$ for shipping cost"
+
+# ex.15
+A cell phone company has the following billing policy
+
+|  | Fixed cost 25$  |
+|---------|--------------|
+| Call duration(in seconds)| Charge($/per second)|
+| 1-500 | 0,01 |
+| 501-800 | 0,008 |
+| 801+ | 0,005 |
+
+Create a program that:
+* Reads how many seconds was the calls duration
+* Calculates the monthly bill for the subscriber
+* Prints the total amount
+* Output: "total amount: 48$"
+
+#### Notice that that the charge for the first 500 seconds it's 0,01$ then for the next 501 to 800 seconds it's 0,008 and then it's 0,005$
+
+# ex.16
+A fast food chain has these meals
+
+| Meal | Price  |
+|---------|--------------|
+| Burger | 5$ |
+| Pizza | 3$ |
+| Hot Dog | 1,5$ |
+
+Create a program that:
+* Reads the meal the customer wants
+* Prints the cost of the meal
+* Output: "Hot Dog 1,50$"
