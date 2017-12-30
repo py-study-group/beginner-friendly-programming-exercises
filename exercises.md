@@ -173,4 +173,76 @@ A fast food chain has these meals
 Create a program that:
 * Reads the meal the customer wants
 * Prints the cost of the meal
+* Input example: "Hot Dog"
 * Output: "Hot Dog 1,50$"
+
+# ex.17
+Create a program that:
+* Calculates the sum of 1+2+3+4...+98+99
+* Prints the sum of 1+2+3+4...+98+99
+* Output: "The sum is 4950"
+
+# ex.18
+* Calculates the sum of 1+3+5+7...+99+101
+* Prints the sum of 1+3+5+7...+99+101
+* Output: "The sum is 2061"
+
+# ex.19
+Create a program that reads a number that you want to get the sum until that number
+
+Create a program that:
+* Reads the number you want to sum 
+* Calculates the sum of 1+2+3+4...+98+99+n
+* Prints the sum of 1+2+3+4...+98+99+n
+* Input example: 100
+* Output: "The sum is 5050"
+
+###### Try the program with a very very big number, [if it takes too long check this out](http://mathcentral.uregina.ca/qq/database/qq.02.06/jo1.html)
+
+# ex.20
+Create a program that reads a number that you want to get the sum until that number and then calculate the averge of these numbers
+
+Create a program that:
+* Reads the number you want to sum 
+* Calculates the sum of 1+2+3+4...+98+99+n
+* Calculates the average of the sum 1+2+3+4...+98+99+n
+* Input example: 100
+* Output: "The average is 50.5"
+
+# ex.21
+Create a program that reads 5 numbers and find the average of these numbers
+
+Create a program that:
+* Reads the 5 numbers you want
+* Calculates the average of these numbers
+* Input example: 4, 6, 1, 4, 9
+* Ouput: "the average is 4.8"
+
+# ex.22
+Create a program that reads 5 numbers and prints if the number is negative or positive
+
+Create a program that:
+* Reads the 5 numbers you want
+* Print if a number is negative or positive
+* Input example: 4, 6, -11, -4, 9
+* Ouput: "Positive", "Positive", "Negative", "Negative", "Positive",
+
+# ex.23
+Create a program that reads numbers and sum them until the user inputs a negative value
+
+Create a program that:
+* Reads numbers
+* Sum them
+* Prints the sum
+* Input example: 5, 9, 3, 0, 2, 0, 4, -7
+* Output: "The sum is 23"
+
+# ex.24
+Create a program that reads numbers and sum them until the user inputs a negative value or zero value
+
+Create a program that:
+* Reads numbers
+* Sum them
+* Prints the sum
+* Input example: 5, 9, 3, 7, 0
+* Output: "The sum is 24"
