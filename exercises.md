@@ -246,3 +246,40 @@ Create a program that:
 * Prints the sum
 * Input example: 5, 9, 3, 7, 0
 * Output: "The sum is 24"
+
+# ex.25
+You start flipping a coin, count and print how many times the result was head or tails until you enter the word "stop". Then find and print the percentage of how many head or tails was the result.
+
+Create a program that:
+* Reads if the flipped coin was head or tails
+* If the value is "stop", print proper message and quit program
+* While value not "stop", count the result
+* Print the proper message
+* Calculates the percentage of head and tails
+* Prints the proper message
+* Input: "head", "tails", "tails", "tails", "head", "head", "tails", "tails", "tails", "head"
+* Ouput: "Head won 4 times and tails won 6 times"
+* Output: "40% Head, 60% Tails"
+
+# ex.26
+Create a program that read values of apartments you want to rent until the inpute value is 0 or a negative number.
+
+You will calculate the average price for rent and how many apartments you've registered. Print the proper message.
+
+Then compare values of apartments you want to rent with the avarage price of the apartments you've registered until you enter 0 or a negative value.
+
+If the price is above average price print the proper message, else if the price is below average print the proper message. If the input value is 0 or a negative number, print the proper message and exit.
+
+Create a program that:
+* Reads values until user inputs 0 or a negative value
+* Calculates the average price
+* Counts how many apartments registered
+* Prints the average price and how many apartments registered
+* Reads prices and compare with the average price and print proper message
+* Input: 234, 764, 123, 654
+* Output: "4 apartments have registed. The average price for rent is 443.75$"
+* Input: 500, 200, 350, 450, 0, -7
+* Output: "Above average price", "Above below price", "Above below price", "Above average price", "Quit Program","Quit Program"
+
+# ex.27
+Create a program that register a user with a username and a password. Then the user will try to login with the login credentials. If the user make 3 wrong attempts quit the program with proper message
