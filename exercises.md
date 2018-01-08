@@ -282,4 +282,78 @@ Create a program that:
 * Output: "Above average price", "Above below price", "Above below price", "Above average price", "Quit Program","Quit Program"
 
 # ex.27
-Create a program that register a user with a username and a password. Then the user will try to login with the login credentials. If the user make 3 wrong attempts quit the program with proper message
+Create a program that register a user with a username and a password. Then the user will try to login with the login credentials. If the user make 3 wrong attempts exit program with proper message.
+
+Create a program that:
+* Reads the username and the password
+* Then the user try to login
+* If the user makes 3 wrong attempts exit with proper message
+
+# ex.28
+Create a program that asks the user for seconds(integers values) and then start printing the countdown, when the countdown ends print Go!. If the user enters a non integer value, exit the program with proper message.
+
+Create a program that:
+* Reads integers until user enters a non integer value.
+* Print the countdown and at the end print Go!
+* Input: 3, -7
+* Output: 3, 2, 1, Go! - Exit Program
+
+# ex.29
+A Park Garage company asked you to create a program that asks if the driver is a member and then charge the driver with 1,5$ fixed cost, if the driver is not a member the fixed cost is 3$. Make sure to keep asking if the driver enters the proper response
+
+Then asks the driver how many hours have parked. For the 1st hour the cost is 2$, for the 2nd hour the price is 1,5$ for the 3rd hour the price is 1$. From the 4th hour and after the cost is 0.5$ per hour. Make sure to keep asking the driver enters a valid value.
+
+Finds the cost the driver has to pay and print it. Ask the user to continue the program or not.
+
+On exit Counts and print how many drivers payed and the total amount of earnings. Ask the user to continue the program or not.
+
+Create a program that:
+* Reads if the driver is a member or not
+* Check if the driver entered the proper response
+* Charge the driver with the proper fixed cost
+* Asks the driver how many hours have parked
+* Check if the driver entered the proper value
+* Finds how many drivers payed and the total amount of earnings
+* Input: Yes(Driver is member), 6(Hours has parked), No(exit program)
+* Output: "Total amount is 7,5$"
+* Output: "1 Driver payed. The total earnings are 7,5$"
+
+# ex.30
+A company asked you to create a program that reads an employee name and salary and store them into proper lists.The number of employees is unknown. To exit the program the user must input "quit". Before the exit find the employees with the maximum salary and print who they are. 
+
+Create a program that:
+* Reads employee name and salary, store them into different lists
+* Asks the user to continue
+* If the user wants to exit the program find and print the employees with maximum salary
+* Input: [Mary, John, George, Nicole], [2343, 2134, 5342, 5342]
+* Output: George - 5342, Nicole - 5432
+
+#### Notice that we have to find the maximum salary and then compare the salaries in case someone has the exactly same salary with someone else.
+
+# ex.31
+The previous exercise but store the names and salaries into one list.
+
+* Input : [Mary, 2343 John, 2134, George, 5342, Nicole, 5342]
+* Output: George - 5342, Nicole - 5432
+
+#### Notice that if the programming language you are using doesn't support different kind of values in lists try to store the numbers as characters and convert to numbers when you want to compare
+
+# ex.32
+A company asked you to create a program that reads an employee name and salary and store them into proper lists.The number of employees is unknown. To exit the program the user must input "quit". Before the exit find and print the total number of employees and the total amount company is paying in salaries. 
+
+Create a program that:
+* Reads employee name and salary, store them into different lists
+* Asks the user to continue
+* If the user wants to exit the program find and print the total number of employees and total amount of salaries
+* Input: [Mary, John, George, Nicole], [2343, 2134, 5342, 5342]
+* Output: "4 employees and the total amount of salaries is 15161$"
+
+# ex.33
+A company asked you to create a program that reads an employee name and salary and store them into proper lists.The number of employees is unknown. To exit the program the user must input "quit". Before exit find the average salary and for each employee print if their salary is above or below average salary.
+
+Create a program that:
+* Reads employee name and salary, store them into different lists
+* Asks the user to continue
+* If the user wants to exit the program find the average salary and for each employee print if is above or below average salary
+* Input: [Mary, John, George, Nicole], [2343, 2134, 5342, 5342]
+* Output: "The average salary is 3790.25$", "Mary's salary is below average","John's salary is below average","George's salary is above average","Nicole's salary is above average"
