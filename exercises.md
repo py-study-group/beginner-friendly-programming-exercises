@@ -380,4 +380,50 @@ Create a program that:
 * Prints the total number of current employees and removed emloyees
 * Input: [Mary, John, George, Nicole], [2343, 2134, 5342, 5342]
 * Output: "The average salary is 3790.25$", "Mary's salary is below average","John's salary is below average","George's salary is above average","Nicole's salary is above average"
-* Output: "Total Employees: 2", ""
+* Output: "Total Employees: 2", "Removed Employees: 2"
+
+# ex.36
+You have these lists of empoyees and their salaries: names[Mary, John, George, Nicole, Nick, Jim, Jack, Johanna], salaries[32343, 12134, 25342, 35342, 42343, 32134, 15342, 25342]
+
+Create a program that:
+* Orders the salaries by biggest salary first
+* Prints all employees in order by lowest salary first
+* Output: "later when I run the script"
+
+# ex.37
+A user account on a website is composed by a username, a password, if the user has profile picture, and the email.
+
+Create a program:
+* That reads the username, password, if the user has uploaded photo or not(boolean value), and the email.
+* Stores the values into a dictionary based on username
+* Input: iakovosbelonias, 123, Yes, iakovosbelonias@gmail.com
+* Output: {'iakovosbelonias': {'password': 123, 'hasPhoto': True, 'email': 'iakovosbelonias@gmail.com'}}
+
+#### Notice that the structure is like this users[username] = {'password': password, 'hasPhoto': hasPhoto, 'email': email}, word not in quotes are variables.
+
+# ex.38
+A user account on a website is composed by a username, a password, if the user has profile picture, and the email.
+
+Create a program:
+* That reads the username, password, if the user has uploaded photo or not(boolean value), and the email.
+* If the email is already in the dictionary warns the user and asks again until get a valid email
+* Stores the values into a dictionary based on username
+* Input: iakovosbelonias, 123, Yes, iakovosbelonias@gmail.com
+* Output: {'iakovosbelonias': {'password': 123, 'hasPhoto': True, 'email': 'iakovosbelonias@gmail.com'}}
+
+#### Notice that the structure is like this users[username] = {'password': password, 'hasPhoto': hasPhoto, 'email': email}, word not in quotes are variables.
+
+# ex.39
+A user account on a website is composed by a username, a password, if the user has profile picture, and the email.
+
+Create a program:
+* That reads the username, password, if the user has uploaded photo or not(boolean value), and the email.
+* The password must be between 6 and 12 digits. Asks the user until gets a valid password
+* Stores the values into a dictionary based on username
+* Input: iakovosbelonias, 123, Yes, iakovosbelonias@gmail.com
+* Output: {'iakovosbelonias': {'password': 123, 'hasPhoto': True, 'email': 'iakovosbelonias@gmail.com'}}
+
+#### Notice that the structure is like this users[username] = {'password': password, 'hasPhoto': hasPhoto, 'email': email}, word not in quotes are variables.
+
+# ex.40
+start creating users until user enter stop. check if username and email exist. check password. create user. ask user if he/she wants to delete a specific user by email or username then proceed and delete the user
