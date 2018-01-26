@@ -391,6 +391,12 @@ Create a program that:
 * Output: "later when I run the script"
 
 # ex.37
+mors code
+
+# ex.38
+nato letter words cow for c etc.
+
+# ex.39
 A user account on a website is composed by a username, a password, if the user has profile picture, and the email.
 
 Create a program:
@@ -401,7 +407,7 @@ Create a program:
 
 #### Notice that the structure is like this users[username] = {'password': password, 'hasPhoto': hasPhoto, 'email': email}, word not in quotes are variables.
 
-# ex.38
+# ex.40
 A user account on a website is composed by a username, a password, if the user has profile picture, and the email.
 
 Create a program:
@@ -413,7 +419,7 @@ Create a program:
 
 #### Notice that the structure is like this users[username] = {'password': password, 'hasPhoto': hasPhoto, 'email': email}, word not in quotes are variables.
 
-# ex.39
+# ex.41
 A user account on a website is composed by a username, a password, if the user has profile picture, and the email.
 
 Create a program:
@@ -425,5 +431,18 @@ Create a program:
 
 #### Notice that the structure is like this users[username] = {'password': password, 'hasPhoto': hasPhoto, 'email': email}, word not in quotes are variables.
 
-# ex.40
+# ex.42
 start creating users until user enter stop. check if username and email exist. check password. create user. ask user if he/she wants to delete a specific user by email or username then proceed and delete the user
+
+
+# ex.43
+bank has users. users info are name, id, balance. Create users and ask for id number and balance.
+
+# ex.44
+bank has users. users info are name, id, balance. Create, read info(id, balance), check if user already exists. if user has 0 balance, delete account.
+
+# ex.45
+bank has users. users info are name, id, balance. Create, read info(id, balance), check if user already exists. if user has 0 balance, copy to a new list , delete account from active list.
+
+# ex.46
+bank users, info balance everything provided. Ask program for options. create user(check if user exit) if update user id(check if exist) balance(check not to be negative), if result = 0(warning! might deactivate the account, are you sure you want to procceed?)---(if no, ask for new amount ot leave). name etc.
