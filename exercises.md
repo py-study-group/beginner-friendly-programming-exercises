@@ -338,6 +338,9 @@ The previous exercise but store the names and salaries into one list.
 
 #### Notice that if the programming language you are using doesn't support different kind of values in lists try to store the numbers as characters and convert to numbers when you want to compare
 
+# ex.v2.1
+you have a list with domain names and an other list with domain extension. also possible combinations.
+
 # ex.32
 A company asked you to create a program that reads an employee name and salary and store them into proper lists.The number of employees is unknown. To exit the program the user must input "quit". Before the exit find and print the total number of employees and the total amount company is paying in salaries. 
 
@@ -446,3 +449,15 @@ bank has users. users info are name, id, balance. Create, read info(id, balance)
 
 # ex.46
 bank users, info balance everything provided. Ask program for options. create user(check if user exit) if update user id(check if exist) balance(check not to be negative), if result = 0(warning! might deactivate the account, are you sure you want to procceed?)---(if no, ask for new amount ot leave). name etc.
+
+# ex.47
+2 lists, names and salaries into 1 dictionary
+
+# ex.48
+3 lists names, salaries, missing days into 1 dictionary
+
+# ex.49
+previous excercise find the employee with fewest days didn't come.
+
+# ex.50
+previous excercise find the employeessssSSS with fewest days that didn't come and lowest salary, change their salary 
