@@ -394,10 +394,29 @@ Create a program that:
 * Output: "later when I run the script"
 
 # ex.37
-mors code
+Create a program that stores all [Morse Code](https://en.wikipedia.org/wiki/Morse_code) into a dictionary. Then
+asks the user for an input text and translate to Morse Code.
+
+Create a program that:
+* Stores all Morse Code values into a dictionary
+* Asks the user for text
+* Prints the tranlsation of Morse Code
+* Input example: "Python Rocks"
+* Output example: ".--. -.-- - .... --- -. / .-. --- -.-. -.- ..."
+
+#### [Here you can find online Morse Code translator](https://morsecode.scphillips.com/translator.html)
 
 # ex.38
-nato letter words cow for c etc.
+Here is [Nato Phonetic Alphabet](https://en.wikipedia.org/wiki/NATO_phonetic_alphabet). Create a program that stores the all the abrevations into a dictionary. Next asks the user for a word and then print the right words for each letter of the given word
+
+Create a program that:
+* Stores the words for each letter
+* Then asks the user for a word
+* Prints the right words
+* Input example: "Python"
+* Output example: "Papa, Yankee, Tango, Hotel, Oscar, November"
+
+#### [Here you can find Nato Phonetic Alphabet](https://en.wikipedia.org/wiki/NATO_phonetic_alphabet)
 
 # ex.39
 A user account on a website is composed by a username, a password, if the user has profile picture, and the email.
