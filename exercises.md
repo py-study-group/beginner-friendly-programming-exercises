@@ -435,6 +435,16 @@ Create a program:
 #### Notice that the structure is like this users[username] = {'password': password, 'hasPhoto': hasPhoto, 'email': email}, word not in quotes are variables.
 
 # ex.42
+A user account on a company's website is composed by a username, a password, salary, and the email.
+A company asks you to create a program that create a user, ask for username,password,salary, email and check if the username or email already exists.
+
+Create a program:
+* Try to find on your own what the company needs
+* Test your program with various inputs
+* Print all the users
+
+
+# ex.43
 start creating users until user enter stop. check if username and email exist. check password. create user. ask user if he/she wants to delete a specific user by email or username then proceed and delete the user
 
 
