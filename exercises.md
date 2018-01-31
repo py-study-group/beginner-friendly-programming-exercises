@@ -404,9 +404,12 @@ Create a program that:
 * Input example: "Python Rocks"
 * Output example: ".--. -.-- - .... --- -. / .-. --- -.-. -.- ..."
 
+# ex.38
+Create a program that asks if the user want to translate a text **from Morse Code** or **to Morse Code**
+
 #### [Here you can find online Morse Code translator](https://morsecode.scphillips.com/translator.html)
 
-# ex.38
+# ex.39
 Here is [Nato Phonetic Alphabet](https://en.wikipedia.org/wiki/NATO_phonetic_alphabet). Create a program that stores the all the abrevations into a dictionary. Next asks the user for a word and then print the right words for each letter of the given word
 
 Create a program that:
@@ -418,7 +421,10 @@ Create a program that:
 
 #### [Here you can find Nato Phonetic Alphabet](https://en.wikipedia.org/wiki/NATO_phonetic_alphabet)
 
-# ex.39
+# ex.40
+Create a program that asks if the user want to translate a text **from Nato Phonetic Alphabet** or **to Nato Phonetic Alphabet**
+
+# ex.41
 A user account on a website is composed by a username, a password, if the user has profile picture, and the email.
 
 Create a program:
@@ -429,7 +435,7 @@ Create a program:
 
 #### Notice that the structure is like this users[username] = {'password': password, 'hasPhoto': hasPhoto, 'email': email}, word not in quotes are variables.
 
-# ex.40
+# ex.42
 A user account on a website is composed by a username, a password, if the user has profile picture, and the email.
 
 Create a program:
@@ -441,7 +447,7 @@ Create a program:
 
 #### Notice that the structure is like this users[username] = {'password': password, 'hasPhoto': hasPhoto, 'email': email}, word not in quotes are variables.
 
-# ex.41
+# ex.43
 A user account on a website is composed by a username, a password, if the user has profile picture, and the email.
 
 Create a program:
@@ -453,7 +459,7 @@ Create a program:
 
 #### Notice that the structure is like this users[username] = {'password': password, 'hasPhoto': hasPhoto, 'email': email}, word not in quotes are variables.
 
-# ex.42
+# ex.44
 A user account on a company's website is composed by a username, a password, salary, and the email.
 A company asks you to create a program that create a user, ask for username,password,salary, email and check if the username or email already exists.
 
@@ -463,30 +469,30 @@ Create a program:
 * Print all the users
 
 
-# ex.43
+# ex.45
 start creating users until user enter stop. check if username and email exist. check password. create user. ask user if he/she wants to delete a specific user by email or username then proceed and delete the user
 
 
-# ex.43
+# ex.46
 bank has users. users info are name, id, balance. Create users and ask for id number and balance.
 
-# ex.44
+# ex.47
 bank has users. users info are name, id, balance. Create, read info(id, balance), check if user already exists. if user has 0 balance, delete account.
 
-# ex.45
+# ex.48
 bank has users. users info are name, id, balance. Create, read info(id, balance), check if user already exists. if user has 0 balance, copy to a new list , delete account from active list.
 
-# ex.46
+# ex.49
 bank users, info balance everything provided. Ask program for options. create user(check if user exit) if update user id(check if exist) balance(check not to be negative), if result = 0(warning! might deactivate the account, are you sure you want to procceed?)---(if no, ask for new amount ot leave). name etc.
 
-# ex.47
+# ex.50
 2 lists, names and salaries into 1 dictionary
 
-# ex.48
+# ex.51
 3 lists names, salaries, missing days into 1 dictionary
 
-# ex.49
+# ex.52
 previous excercise find the employee with fewest days didn't come.
 
-# ex.50
+# ex.53
 previous excercise find the employeessssSSS with fewest days that didn't come and lowest salary, change their salary 
