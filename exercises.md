@@ -486,13 +486,13 @@ bank has users. users info are name, id, balance. Create, read info(id, balance)
 bank users, info balance everything provided. Ask program for options. create user(check if user exit) if update user id(check if exist) balance(check not to be negative), if result = 0(warning! might deactivate the account, are you sure you want to procceed?)---(if no, ask for new amount ot leave). name etc.
 
 # ex.50
-2 lists, names and salaries into 1 dictionary
+You have two lists. The first list has the names of 5 employees and the second list has their salary. Create a dictionary with the names as key and salaries as value.
 
 # ex.51
-3 lists names, salaries, missing days into 1 dictionary
+You have three lists. The first list has the names of 5 employees, the second list has their salary and the third list has how many days each employee missed. Create a dictionary with the employee name as key, salary and days missed for each employee as value
 
 # ex.52
-previous excercise find the employee with fewest days didn't come.
+From the previous exercise find the employee with the fewest days missing.
 
 # ex.53
-previous excercise find the employeessssSSS with fewest days that didn't come and lowest salary, change their salary 
+From the previous exercise find the employee with the fewest days missing and lowest salary and give the employee a raise of 10%
