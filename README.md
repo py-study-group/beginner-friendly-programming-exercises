@@ -6,7 +6,7 @@ The purpose of these exercises is to help you develop algorithmic problem solvin
 ## How to do the exercises
 
 * Try to do not use the programming language magic
-* If you get stuck it's ok to see the solution
+* If you get stuck it's ok to see the [solution](solutions.md)
 * After you done with the exercise is ok to use the programming language magic
 
 ## Contribute
