@@ -11,7 +11,7 @@ The purpose of these exercises is to help you develop algorithmic problem solvin
 
 ## Contribute
 
-At the moment there are a lot of spelling and grammar mistakes I am trying to correct. **Please you are more than welcome to correct any spelling and grammer mistakes.**
+At the moment there are a lot of spelling and grammar mistakes I am trying to correct. **Please you are more than welcome to correct any spelling and grammar mistakes.**
 
 If you want to contribute an exercise, make sure to use the [fix_exercise_number.py script](fix_exercise_number.py) to fix the order of exercises
 
