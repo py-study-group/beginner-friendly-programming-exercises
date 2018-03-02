@@ -30,3 +30,5 @@ Once your solution has been placed into your forked repo you should initiate a p
 To create a pull request, please see: [Creating a pull request from a fork](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 
 Once your pull request has been submitted, an admin of the py-study-group will review and merge it into the [py-study-group/beginner-friendly-programming-exercises](https://github.com/py-study-group/beginner-friendly-programming-exercises) where it will be appear alongside all of the other submitted solutions. 
+
+** I specially want to thank @cripcate for writing this awesome contribution guide** 
