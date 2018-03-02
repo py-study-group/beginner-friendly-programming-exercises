@@ -7,7 +7,12 @@ The purpose of these exercises is to help you develop algorithmic problem solvin
 
 * Try to do not use the programming language magic
 * If you get stuck it's ok to see the solution
+* After you done with the exercise is ok to use the programming language magic
 
 ## Contribute
 
-If you want to contribute an exercise, make sure to use the script(coming soon) to fix the number order of exercises
+At the moment there are a lot of spelling and grammar mistakes I am trying to correct. **Please you are more than welcome to correct any spelling and grammer mistakes.**
+
+If you want to contribute an exercise, make sure to use the [fix_exercise_number.py script](fix_exercise_number.py) to fix the order of exercises
+
+[Solutions](solutions.md) are coming soon
