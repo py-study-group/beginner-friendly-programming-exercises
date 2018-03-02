@@ -21,13 +21,11 @@ If you want to contribute an exercise, make sure to use the [fix_exercise_number
 
 #### Copy your solution to your forked repo
 
-Once you have completed a challenge and wish to submit it, make sure that it exists in your forked repo under the appropriate month/challenge directory and named by your Slack username (for example, `cripcate.py`). 
-
 For details on how to do this, please see: [Adding a file to a repository (web)](https://help.github.com/articles/adding-a-file-to-a-repository/) or [Adding a file to a repository (command line)](https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/)
 
 #### Create a pull request
 
-Once your solution has been placed into your forked repo you should initiate a pull request into the main [py-study-group/beginner-friendly-programming-exercises](https://github.com/py-study-group/beginner-friendly-programming-exercises.git) so that your solution(s) can be merged. 
+Once your solution has been placed into your forked repo you should initiate a pull request into the main [py-study-group/beginner-friendly-programming-exercises](https://github.com/py-study-group/beginner-friendly-programming-exercises.git) so that your solution(s) or corrections can be merged. 
 
 To create a pull request, please see: [Creating a pull request from a fork](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 
