@@ -112,7 +112,7 @@ Create a program:
 * Output: "I can buy 4 PS4, 1 Samsung, 3 TV, 80 game skin"
 
 # ex.12
-You've consumed X amount of Mbps on Wikipedia and Y amount of Mbps on memes. The cost of visiting Wikipedia is 0,10$ per Mb 
+You've consumed X amount of Mbps on Wikipedia and Y amount of Mbps on memes. The cost of visiting Wikipedia is 0,10$ per Mb
 and the cost for watching memes is 0,05$ per Mb. If total consumption  is more than 100$ print "Too much consumption".
 If watching meme consumption is greater than reading wikipedia consumption print "WOW MANY MEMES", "SUCH LOL"(in new line).
 
@@ -191,7 +191,7 @@ Create a program that:
 Create a program that reads a number that you want to get the sum until that number
 
 Create a program that:
-* Reads the number you want to sum 
+* Reads the number you want to sum
 * Calculates the sum of 1+2+3+4...+98+99+n
 * Prints the sum of 1+2+3+4...+98+99+n
 * Input example: 100
@@ -203,7 +203,7 @@ Create a program that:
 Create a program that reads a number that you want to get the sum until that number and then calculate the averge of these numbers
 
 Create a program that:
-* Reads the number you want to sum 
+* Reads the number you want to sum
 * Calculates the sum of 1+2+3+4...+98+99+n
 * Calculates the average of the sum 1+2+3+4...+98+99+n
 * Input example: 100
@@ -319,7 +319,7 @@ Create a program that:
 * Output: "1 Driver payed. The total earnings are 7,5$"
 
 # ex.30
-A company asked you to create a program that reads an employee name and salary and store them into proper lists.The number of employees is unknown. To exit the program the user must input "quit". Before the exit find the employees with the maximum salary and print who they are. 
+A company asked you to create a program that reads an employee name and salary and store them into proper lists.The number of employees is unknown. To exit the program the user must input "quit". Before the exit find the employees with the maximum salary and print who they are.
 
 Create a program that:
 * Reads employee name and salary, store them into different lists
@@ -338,11 +338,11 @@ The previous exercise but store the names and salaries into one list.
 
 #### Notice that if the programming language you are using doesn't support different kind of values in lists try to store the numbers as characters and convert to numbers when you want to compare
 
-# ex.v2.1
+# ex.32
 you have a list with domain names and an other list with domain extension. also possible combinations.
 
-# ex.32
-A company asked you to create a program that reads an employee name and salary and store them into proper lists.The number of employees is unknown. To exit the program the user must input "quit". Before the exit find and print the total number of employees and the total amount company is paying in salaries. 
+# ex.33
+A company asked you to create a program that reads an employee name and salary and store them into proper lists.The number of employees is unknown. To exit the program the user must input "quit". Before the exit find and print the total number of employees and the total amount company is paying in salaries.
 
 Create a program that:
 * Reads employee name and salary, store them into different lists
@@ -351,7 +351,7 @@ Create a program that:
 * Input: [Mary, John, George, Nicole], [2343, 2134, 5342, 5342]
 * Output: "4 employees and the total amount of salaries is 15161$"
 
-# ex.33
+# ex.34
 A company asked you to create a program that reads an employee name and salary and store them into proper lists.The number of employees is unknown. To exit the program the user must input "quit". Before exit find the average salary and for each employee print if their salary is above or below average salary.
 
 Create a program that:
@@ -361,7 +361,7 @@ Create a program that:
 * Input: [Mary, John, George, Nicole], [2343, 2134, 5342, 5342]
 * Output: "The average salary is 3790.25$", "Mary's salary is below average","John's salary is below average","George's salary is above average","Nicole's salary is above average"
 
-# ex.34
+# ex.35
 A company asked you to create a program that reads an employee name and salary and store them into proper lists.The number of employees is unknown. To exit the program the user must input "quit". Before exit find the average salary and for each employee print if their salary is above or below average salary. If the employee have above average salary then remove the employee from the list.
 
 Create a program that:
@@ -372,7 +372,7 @@ Create a program that:
 * Output: "The average salary is 3790.25$", "Mary's salary is below average","John's salary is below average","George's salary is above average","Nicole's salary is above average"
 * Output: "Total Employees: 2"
 
-# ex.35
+# ex.36
 A company asked you to create a program that reads an employee name and salary and store them into proper lists.The number of employees is unknown. To exit the program the user must input "quit". Before exit find the average salary and for each employee print if their salary is above or below average salary. If the employee have above average salary then remove the employee from the list and put the employee in to a new list. Print the total number of current employees and removed emloyees
 
 Create a program that:
@@ -385,7 +385,7 @@ Create a program that:
 * Output: "The average salary is 3790.25$", "Mary's salary is below average","John's salary is below average","George's salary is above average","Nicole's salary is above average"
 * Output: "Total Employees: 2", "Removed Employees: 2"
 
-# ex.36
+# ex.37
 You have these lists of empoyees and their salaries: names[Mary, John, George, Nicole, Nick, Jim, Jack, Johanna], salaries[32343, 12134, 25342, 35342, 42343, 32134, 15342, 25342]
 
 Create a program that:
@@ -393,7 +393,7 @@ Create a program that:
 * Prints all employees in order by lowest salary first
 * Output: "later when I run the script"
 
-# ex.37
+# ex.38
 Create a program that stores all [Morse Code](https://en.wikipedia.org/wiki/Morse_code) into a dictionary. Then
 asks the user for an input text and translate to Morse Code.
 
@@ -404,12 +404,12 @@ Create a program that:
 * Input example: "Python Rocks"
 * Output example: ".--. -.-- - .... --- -. / .-. --- -.-. -.- ..."
 
-# ex.38
+# ex.39
 Create a program that asks if the user want to translate a text **from Morse Code** or **to Morse Code**
 
 #### [Here you can find online Morse Code translator](https://morsecode.scphillips.com/translator.html)
 
-# ex.39
+# ex.40
 Here is [Nato Phonetic Alphabet](https://en.wikipedia.org/wiki/NATO_phonetic_alphabet). Create a program that stores the all the abrevations into a dictionary. Next asks the user for a word and then print the right words for each letter of the given word
 
 Create a program that:
@@ -421,26 +421,14 @@ Create a program that:
 
 #### [Here you can find Nato Phonetic Alphabet](https://en.wikipedia.org/wiki/NATO_phonetic_alphabet)
 
-# ex.40
-Create a program that asks if the user want to translate a text **from Nato Phonetic Alphabet** or **to Nato Phonetic Alphabet**
-
 # ex.41
-A user account on a website is composed by a username, a password, if the user has profile picture, and the email.
-
-Create a program:
-* That reads the username, password, if the user has uploaded photo or not(boolean value), and the email.
-* Stores the values into a dictionary based on username
-* Input: iakovosbelonias, 123, Yes, iakovosbelonias@gmail.com
-* Output: {'iakovosbelonias': {'password': 123, 'hasPhoto': True, 'email': 'iakovosbelonias@gmail.com'}}
-
-#### Notice that the structure is like this users[username] = {'password': password, 'hasPhoto': hasPhoto, 'email': email}, word not in quotes are variables.
+Create a program that asks if the user want to translate a text **from Nato Phonetic Alphabet** or **to Nato Phonetic Alphabet**
 
 # ex.42
 A user account on a website is composed by a username, a password, if the user has profile picture, and the email.
 
 Create a program:
 * That reads the username, password, if the user has uploaded photo or not(boolean value), and the email.
-* If the email is already in the dictionary warns the user and asks again until get a valid email
 * Stores the values into a dictionary based on username
 * Input: iakovosbelonias, 123, Yes, iakovosbelonias@gmail.com
 * Output: {'iakovosbelonias': {'password': 123, 'hasPhoto': True, 'email': 'iakovosbelonias@gmail.com'}}
@@ -452,7 +440,7 @@ A user account on a website is composed by a username, a password, if the user h
 
 Create a program:
 * That reads the username, password, if the user has uploaded photo or not(boolean value), and the email.
-* The password must be between 6 and 12 digits. Asks the user until gets a valid password
+* If the email is already in the dictionary warns the user and asks again until get a valid email
 * Stores the values into a dictionary based on username
 * Input: iakovosbelonias, 123, Yes, iakovosbelonias@gmail.com
 * Output: {'iakovosbelonias': {'password': 123, 'hasPhoto': True, 'email': 'iakovosbelonias@gmail.com'}}
@@ -460,6 +448,18 @@ Create a program:
 #### Notice that the structure is like this users[username] = {'password': password, 'hasPhoto': hasPhoto, 'email': email}, word not in quotes are variables.
 
 # ex.44
+A user account on a website is composed by a username, a password, if the user has profile picture, and the email.
+
+Create a program:
+* That reads the username, password, if the user has uploaded photo or not(boolean value), and the email.
+* The password must be between 6 and 12 digits. Asks the user until gets a valid password
+* Stores the values into a dictionary based on username
+* Input: iakovosbelonias, 123, Yes, iakovosbelonias@gmail.com
+* Output: {'iakovosbelonias': {'password': 123, 'hasPhoto': True, 'email': 'iakovosbelonias@gmail.com'}}
+
+#### Notice that the structure is like this users[username] = {'password': password, 'hasPhoto': hasPhoto, 'email': email}, word not in quotes are variables.
+
+# ex.45
 A user account on a company's website is composed by a username, a password, salary, and the email.
 A company asks you to create a program that create a user, ask for username,password,salary, email and check if the username or email already exists.
 
@@ -469,30 +469,30 @@ Create a program:
 * Print all the users
 
 
-# ex.45
+# ex.46
 start creating users until user enter stop. check if username and email exist. check password. create user. ask user if he/she wants to delete a specific user by email or username then proceed and delete the user
 
 
-# ex.46
+# ex.47
 bank has users. users info are name, id, balance. Create users and ask for id number and balance.
 
-# ex.47
+# ex.48
 bank has users. users info are name, id, balance. Create, read info(id, balance), check if user already exists. if user has 0 balance, delete account.
 
-# ex.48
+# ex.49
 bank has users. users info are name, id, balance. Create, read info(id, balance), check if user already exists. if user has 0 balance, copy to a new list , delete account from active list.
 
-# ex.49
+# ex.50
 bank users, info balance everything provided. Ask program for options. create user(check if user exit) if update user id(check if exist) balance(check not to be negative), if result = 0(warning! might deactivate the account, are you sure you want to procceed?)---(if no, ask for new amount ot leave). name etc.
 
-# ex.50
+# ex.51
 You have two lists. The first list has the names of 5 employees and the second list has their salary. Create a dictionary with the names as key and salaries as value.
 
-# ex.51
+# ex.52
 You have three lists. The first list has the names of 5 employees, the second list has their salary and the third list has how many days each employee missed. Create a dictionary with the employee name as key, salary and days missed for each employee as value
 
-# ex.52
+# ex.53
 From the previous exercise find the employee with the fewest days missing.
 
-# ex.53
+# ex.54
 From the previous exercise find the employee with the fewest days missing and lowest salary and give the employee a raise of 10%
