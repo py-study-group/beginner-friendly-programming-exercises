@@ -1,7 +1,7 @@
 # Programming exercises for beginners
 #
-These exercises are focused on absolute beginners.
-The purpose of these exercises is to help you develop algorithmic problem solving skills from early stage.
+[These exercises are focused on absolute beginners.](exercises.md)
+The purpose of [these exercises](exercises.md) is to help you develop algorithmic problem solving skills from early stage.
 
 ## How to do the exercises
 
