@@ -1,22 +1,20 @@
 # Programming exercises for beginners
 #
 [These exercises are focused on absolute beginners.](exercises.md)
-The purpose of [these exercises](exercises.md) is to help you develop algorithmic problem solving skills from early stage.
+The purpose of [these exercises](exercises.md) is to help you develop algorithmic problem solving skills from an early stage in your programming journey.
 
 ## How to do the exercises
 
 * [Click here to find the exercises](exercises.md)
-* Try to do not use the programming language magic
-* If you get stuck it's ok to see the [solution](solutions.md)
-* After you done with the exercise is ok to use the programming language magic
+* Attempt the challenges in Python
+* If you get stuck it's ok to see the [solution](solutions.md), but it is highly recommended to attept the problems yourself first.
+* Try to not use the programming language MAGIC
+* After you done with the exercise try to attempt it another language you are learning, or if possible make a general purpose code for that problem. Ex) ratrher than explicitly adding 5 + 3 for the specific problem: the general solution can be: return a + b, where a and b satisfy the addition problem but for ALL numbers.
 
 # Contribute
-
-At the moment there are a lot of spelling and grammar mistakes I am trying to correct. **Please you are more than welcome to correct any spelling and grammar mistakes.**
-
 If you want to contribute an exercise, make sure to use the [fix_exercise_number.py script](fix_exercise_number.py) to fix the order of exercises
 
-[Solutions](solutions.md) are coming soon
+[Solutions](solutions.md) are coming soon!
 
 # To submit a solution
 
