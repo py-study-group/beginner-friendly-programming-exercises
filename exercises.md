@@ -1,30 +1,32 @@
 # ex.1
-We have variable a and variable b. Both variables have already a stored value. We want to swap those values.
+Create two variables a and b, and initially set them each to a different number. Write a program that swaps both values.
 
 * Example: a = 10, b = 20
 * Output: a = 20, b = 10
 
-Warning! Do not use the programming language magic. After you complete the exercise feel free to do so.
+Warning! Do not use the programming language MAGIC. After you complete the exercise feel free to do so.
 
 # ex.2
-It's the end of the semester and you got your marks from, Geometry, Algebra, Physics classes.
+It's the end of the semester and you got your grades from three classes: Geometry, Algebra, and Physics.
 
 Create a program that:
-* Reads the values of these 3 lessons
-* Calculates the average of your grades
+1) Reads the grades of these 3 classes (Grades range from 0 - 10)
+2) Calculate the average of your grades
+
 * Example: Geometry = 6, Algebra = 7, Physics = 8
 * Output: average_score = 7
 
-Warning! Do not use the programming language magic. After you complete the exercise feel free to do so.
+Warning! Do not use the programming language MAGIC. After you complete the exercise feel free to do so.
 
 # ex.3
 You've bought a Bitcoin and now it's on the rise!!!
 
 Create a program that:
-* Reads the value that you bought the bitcoin
-* Reads the percentage of increase(or decrease)
-* Prints the total value of your bitcoin
-* Prints the increase or decrease value
+1) Reads the value of the bitcoin at the point of purchase
+2) Reads the percentage of increase(or decrease)
+3) Prints the total value of your bitcoin
+4) Prints the increase or decrease value
+
 * Example: bitcoin_value = 10000, bitcoin_increase = 10
 * Output: total_bitcoin_value = 11000, bitcoin_increase_value = 1000
 
