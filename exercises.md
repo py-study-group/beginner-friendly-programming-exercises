@@ -18,6 +18,17 @@ Create a program that:
 
 Warning! Do not use the programming language MAGIC. After you complete the exercise feel free to do so.
 
+# ex.9
+The exercise is almost identical to a previous exercise with a minor change. It's the end of the semester and you got your marks from, Geometry, Algebra, Physics classes. If the average score is 7 and above print "Good job!", if the average score is between 6 and 4 print "You need to work harder!", if the average score is below 4 print "Failed, you really need to work harder!".
+
+Create a program that:
+* Reads the values of these 3 lessons
+* Calculate the average of your grades
+* Example: Geometry = 6, Algebra = 7, Physics = 8
+* Output: Your average score is 7, Good job!"
+
+Warning! Do not use the programming language magic. After you complete the exercise feel free to do so.
+
 # ex.3
 You've bought a Bitcoin and now it's on the rise!!!
 
@@ -54,22 +65,24 @@ Create a program that:
 (Warning! Τhe prices are made up for exercise purposes)
 
 # ex.6
-You are interested in buying a new laptop. You check the price and you see that the price is 300$ without 10% tax.
+You are interested in buying a new laptop. You check the price and you see that the price is 300$ without the 10% tax.
 
 Create a program that:
-* Read the price of the laptop
-* Read the tax percentage
-* Prints the total amount
+1) Reads the price of the laptop
+2) Reads the tax percentage
+3) Prints the total amount
+
 * Output: "The total price of the laptop is 330$"
 
 # ex.7
-In a company the monthly salary of an employee is calculated by minimum wage 400$ per month, plus 20$ multiply by the employment years, plus 30$ for each employee kid.
+In a company the monthly salary of an employee is calculated by: the minimum wage 400$ per month, plus 20$ multiplied by the number of years employed, plus 30$ for each child they have.
 
 Create a program that:
-* Read the employment years
-* Read the number of each employee kids
-* Prints the total amount the employee must take
-* Output: "The total amount is 560$, 400$ minimum wage + 100$ for 5 years experience + 60$ for 2 kids"
+1) Reads the number of years employed
+2) Reads the number of children the employee has
+3) Prints the total amount of salary the employee makes
+
+* Output: "The total amount is 560$. 400$ minimum wage + 100$ for 5 years experience + 60$ for 2 kids"
 
 # ex.8
 The exercise is almost identical to a previous exercise with a minor change. In a company the monthly salary of an employee is calculated by minimum wage 400$ per month, plus 20$ multiply by the employment years, plus 30$ for each employee kid, plus 100$ if the employee didn't miss 1 day of work.
@@ -80,32 +93,21 @@ Create a program that:
 * Prints the total amount the employee must take
 * Output: "The total amount is 660$, 400$ minimum wage + 100$ for 5 years experience + 60$ for 2 kids + 100$ for not missing a day at work"
 
-# ex.9
-The exercise is almost identical to a previous exercise with a minor change. It's the end of the semester and you got your marks from, Geometry, Algebra, Physics classes. If the average score is 7 and above print "Good job!", if the average score is between 6 and 4 print "You need to work harder!", if the average score is below 4 print "Failed, you really need to work harder!".
-
-Create a program that:
-* Reads the values of these 3 lessons
-* Calculate the average of your grades
-* Example: Geometry = 6, Algebra = 7, Physics = 8
-* Output: Your average score is 7, Good job!"
-
-Warning! Do not use the programming language magic. After you complete the exercise feel free to do so.
-
 # ex.10
-Create a program that prints the last digit of an integer
+Create a program that prints the last digit of a given integer
 
 Create a program that:
-* Reads an integer
-* Print the last digit
+1) Reads the integer
+2) Prints the last digit
 
-Warning! Do not use the programming language magic. After you complete the exercise feel free to do so.
+Warning! Do not use the programming language MAGIC. After you complete the exercise feel free to do so.
 
 Warning! Don't try to convert the number into string etc.
 
 Warning! For this problem it's ok after spending some time to look for the solution.
 
 # ex.11
-You have started working and you are wondering how many things you can buy with the money you've earned. A PS4 cots 200$, a Samsung 900$, a TV 500$, a game skin 9.99$
+You have started working and you are wondering how many things you can buy with the money you've earned. A PS4 cots 200$, a Samsung phone 900$, a TV 500$, a game skin 9.99$
 
 Create a program:
 * Notice that you can't but half TV or 1/4 of PS4.
