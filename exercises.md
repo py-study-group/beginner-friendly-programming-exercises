@@ -60,7 +60,7 @@ Create a program that:
 * Output: "The total price of the laptop is 330$"
 
 # ex.7
-In a company the monthly salary of an employee is calculated by minimum wage 400$ per month, plus 20$ multiply by the employment years, plus 30$ for each employee kid.
+In a company the monthly salary of an employee is calculated by minimum wage 400$ per month, plus 20$ multiplied by employment years, plus 30$ for each employee kid.
 
 Create a program that:
 * Read the employment years
