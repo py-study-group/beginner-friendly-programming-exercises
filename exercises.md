@@ -22,8 +22,8 @@ Warning! Do not use the programming language MAGIC. After you complete the exerc
 You've bought a Bitcoin and now it's on the rise!!!
 
 Create a program that:
-1) Reads the value of the bitcoin at the point of purchase
-2) Reads the percentage of increase(or decrease)
+1) Reads the value of the bitcoin at the time of purchase
+2) Reads the percentage of increase (or decrease)
 3) Prints the total value of your bitcoin
 4) Prints the increase or decrease value
 
@@ -31,26 +31,27 @@ Create a program that:
 * Output: total_bitcoin_value = 11000, bitcoin_increase_value = 1000
 
 # ex.4
-You own a property and you want to calculate the area.
+You now own some property and you want to calculate the total area of the property.
 
 Create a program that:
-* Reads the width and height
-* Prints the area
+1) Reads the width and height
+2) Prints the area
+
 * Example: width = 5, height = 2
-* Output: area = 10
+* Output: total_area = 10
 
 # ex.5
-You are interested in buying cryptocurrencies. You want to check with your current amount of money how many coins you can buy
-in Bitcoin, Ethereum and Litecoin.
+You are interested in buying crypto-currencies. You want to check the current amount of money you have and see how many coins you can buy in Bitcoin, Ethereum, and Litecoin.
 
 Create a program that:
-* Reads your amount of money
-* Reads the read the price of Bitcoin, Ethereum and Litecoin
-* Prints the amount of Bitcoin, Ethereum and Litecoin you can buy
-* Example: money = 100, bitcoin_price = 50, Ethereum = 25, Litecoin = 10
-* Output: "With 100$ you can buy 2 Bitcoin, 4 Ethereum, 10 Litecoin
+1) Reads the total amount of money you have
+2) Reads the price of Bitcoin, Ethereum, and Litecoin
+3) Prints the amount of Bitcoin, Ethereum, and Litecoin you can buy
 
-Warning! Τhe prices are made up for exercise purposes
+* Example: money = 100, bitcoin_price = 50, ethereum_price = 25, litecoin_price = 10
+* Output: "With 100$ you can buy: 2 Bitcoins, 4 Ethereum, and 10 Litecoins"
+
+(Warning! Τhe prices are made up for exercise purposes)
 
 # ex.6
 You are interested in buying a new laptop. You check the price and you see that the price is 300$ without 10% tax.
