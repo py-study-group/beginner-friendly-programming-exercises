@@ -107,7 +107,7 @@ Warning! Don't try to convert the number into string etc.
 Warning! For this problem it's ok after spending some time to look for the solution.
 
 # ex.11
-You have started working and you are wondering how many things you can buy with the money you've earned. A PS4 cots 200$, a Samsung phone 900$, a TV 500$, a game skin 9.99$
+You have started working and you are wondering how many things you can buy with the money you've earned. A PS4 costs 200$, a Samsung phone 900$, a TV 500$, a game skin 9.99$
 
 Create a program:
 * Notice that you can't but half TV or 1/4 of PS4.
