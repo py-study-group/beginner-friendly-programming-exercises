@@ -190,7 +190,7 @@ Create a program that:
 # ex.18
 * Calculates the sum of 1+3+5+7...+99+101
 * Prints the sum of 1+3+5+7...+99+101
-* Output: "The sum is 2061"
+* Output: "The sum is 2601"
 
 # ex.19
 Create a program that reads a number that you want to get the sum until that number
